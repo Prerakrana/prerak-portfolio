@@ -2,7 +2,7 @@
 
 # 🚀 Prerak Rana – Developer Portfolio
 
-Welcome to my personal developer portfolio, built with **HTML, CSS, and JavaScript**, inspired by the sleek and modern [AstraRise](https://astrarise.vercel.app) design.
+Welcome to my personal developer portfolio, built with **HTML, CSS, and JavaScript**, inspired by the sleek and modern  design.
 
 This site showcases my skills as a **MERN Stack Developer**, including my background, projects, and contact information — all wrapped in a clean, dark-themed UI.
 
@@ -10,7 +10,8 @@ This site showcases my skills as a **MERN Stack Developer**, including my backgr
 
 ## 🔍 Preview
 
-![Portfolio Screenshot](assets/preview.png)
+![Portfolio Screenshot]<img width="1895" height="904" alt="Screenshot 2025-07-24 144600" src="https://github.com/user-attachments/assets/5f4693c8-110c-4481-a949-f84800c09761" />
+
 
 > 💡 Live site: [https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)
 
